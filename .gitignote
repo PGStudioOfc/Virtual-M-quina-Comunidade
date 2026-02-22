@@ -1,0 +1,37 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Roblox
+*.rbxl.lock
+*.rbxlx.lock
+
+# Node / cache
+node_modules/
+
+# Arquivos grandes
+*.zip
+*.rar
+*.7z
+*.iso
+
+# Dados sensíveis
+.env
